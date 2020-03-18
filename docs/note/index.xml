@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Notes on Yaleax&#39;s Blog</title>
-    <link>http://www.yaleax.com/note/</link>
+    <link>https://www.yaleax.com/note/</link>
     <description>Recent content in Notes on Yaleax&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 31 Jan 2020 04:57:56 +0000</lastBuildDate>
     
-        <atom:link href="http://www.yaleax.com/note/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.yaleax.com/note/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>手套比口罩更重要！</title>
-        <link>http://www.yaleax.com/note/%E6%89%8B%E5%A5%97%E6%AF%94%E5%8F%A3%E7%BD%A9%E6%9B%B4%E9%87%8D%E8%A6%81/</link>
+        <link>https://www.yaleax.com/note/%E6%89%8B%E5%A5%97%E6%AF%94%E5%8F%A3%E7%BD%A9%E6%9B%B4%E9%87%8D%E8%A6%81/</link>
         <pubDate>Fri, 31 Jan 2020 04:57:56 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Fri, 31 Jan 2020 04:57:56 +0000</atom:modified>
-        <guid>http://www.yaleax.com/note/%E6%89%8B%E5%A5%97%E6%AF%94%E5%8F%A3%E7%BD%A9%E6%9B%B4%E9%87%8D%E8%A6%81/</guid>
+        <guid>https://www.yaleax.com/note/%E6%89%8B%E5%A5%97%E6%AF%94%E5%8F%A3%E7%BD%A9%E6%9B%B4%E9%87%8D%E8%A6%81/</guid>
         <description>提醒：手套比口罩更重要！ 发布: 2020年1月30日 劳里·加勒特（Laurie Garrett）是美国著名女记者，是获得皮博迪奖（The Peabody Awa</description>
         
         <dc:creator>Yaleax</dc:creator>

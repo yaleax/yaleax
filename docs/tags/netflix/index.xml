@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Netflix on Yaleax&#39;s Blog</title>
-    <link>http://www.yaleax.com/tags/netflix/</link>
+    <link>https://www.yaleax.com/tags/netflix/</link>
     <description>Recent content in Netflix on Yaleax&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 17 Nov 2019 08:41:44 +0000</lastBuildDate>
     
-        <atom:link href="http://www.yaleax.com/tags/netflix/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.yaleax.com/tags/netflix/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>利用Dnsmasq SNIproxy解锁 Netflix在 Ubuntu18.04 服务器上</title>
-        <link>http://www.yaleax.com/posts/%E8%A7%A3%E9%94%81-netflix/</link>
+        <link>https://www.yaleax.com/posts/%E8%A7%A3%E9%94%81-netflix/</link>
         <pubDate>Sun, 17 Nov 2019 08:41:44 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Sun, 17 Nov 2019 08:41:45 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/%E8%A7%A3%E9%94%81-netflix/</guid>
+        <guid>https://www.yaleax.com/posts/%E8%A7%A3%E9%94%81-netflix/</guid>
         <description>一、原理 Dnsmasq SNIproxy一键脚本，是利用Dnsmasq的DNS将网站解析劫持到SNI proxy反向代理的页面上。 二、必要条件 1.可以看 Ne</description>
         
         <dc:creator>Yaleax</dc:creator>

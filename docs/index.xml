@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Yaleax&#39;s Blog</title>
-    <link>http://www.yaleax.com/</link>
+    <link>https://www.yaleax.com/</link>
     <description>Recent content on Yaleax&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 24 Feb 2020 21:30:45 -0500</lastBuildDate>
     
-        <atom:link href="http://www.yaleax.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.yaleax.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -27,11 +27,11 @@
       
       <item>
         <title>通过dd 命令给 VPS重装debian系统</title>
-        <link>http://www.yaleax.com/posts/dddebian/</link>
+        <link>https://www.yaleax.com/posts/dddebian/</link>
         <pubDate>Mon, 24 Feb 2020 21:30:45 -0500</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Mon, 24 Feb 2020 21:30:45 -0500</atom:modified>
-        <guid>http://www.yaleax.com/posts/dddebian/</guid>
+        <guid>https://www.yaleax.com/posts/dddebian/</guid>
         <description>前言 当你想在 vps 里面重新安装一个干净的系统的时候，你就可以用下面的方法来执行。注意看说明，这个不是一键脚本，需要修改参数。 1.装依赖组件 1 apt-get install</description>
         
         <dc:creator>Yaleax</dc:creator>
@@ -45,11 +45,11 @@
       
       <item>
         <title>DOH（DNS-over-HTTPs）服务器搭建</title>
-        <link>http://www.yaleax.com/posts/doh/</link>
+        <link>https://www.yaleax.com/posts/doh/</link>
         <pubDate>Sat, 22 Feb 2020 21:23:29 -0500</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Sat, 22 Feb 2020 21:23:29 -0500</atom:modified>
-        <guid>http://www.yaleax.com/posts/doh/</guid>
+        <guid>https://www.yaleax.com/posts/doh/</guid>
         <description>一、Doh介绍 DOH全称为DNS-over-HTTPs，顾名思义，其主要目的是使用https协议来进行DNS请求。 正常的DNS请求过程是通过</description>
         
         <dc:creator>Yaleax</dc:creator>
@@ -63,11 +63,11 @@
       
       <item>
         <title>手套比口罩更重要！</title>
-        <link>http://www.yaleax.com/note/%E6%89%8B%E5%A5%97%E6%AF%94%E5%8F%A3%E7%BD%A9%E6%9B%B4%E9%87%8D%E8%A6%81/</link>
+        <link>https://www.yaleax.com/note/%E6%89%8B%E5%A5%97%E6%AF%94%E5%8F%A3%E7%BD%A9%E6%9B%B4%E9%87%8D%E8%A6%81/</link>
         <pubDate>Fri, 31 Jan 2020 04:57:56 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Fri, 31 Jan 2020 04:57:56 +0000</atom:modified>
-        <guid>http://www.yaleax.com/note/%E6%89%8B%E5%A5%97%E6%AF%94%E5%8F%A3%E7%BD%A9%E6%9B%B4%E9%87%8D%E8%A6%81/</guid>
+        <guid>https://www.yaleax.com/note/%E6%89%8B%E5%A5%97%E6%AF%94%E5%8F%A3%E7%BD%A9%E6%9B%B4%E9%87%8D%E8%A6%81/</guid>
         <description>提醒：手套比口罩更重要！ 发布: 2020年1月30日 劳里·加勒特（Laurie Garrett）是美国著名女记者，是获得皮博迪奖（The Peabody Awa</description>
         
         <dc:creator>Yaleax</dc:creator>
@@ -81,11 +81,11 @@
       
       <item>
         <title>Filebrowser</title>
-        <link>http://www.yaleax.com/posts/filebrowser/</link>
+        <link>https://www.yaleax.com/posts/filebrowser/</link>
         <pubDate>Wed, 04 Dec 2019 11:42:12 +0800</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Wed, 04 Dec 2019 11:42:12 +0800</atom:modified>
-        <guid>http://www.yaleax.com/posts/filebrowser/</guid>
+        <guid>https://www.yaleax.com/posts/filebrowser/</guid>
         <description>简介 File Browser 是一个基于 Web 的文件管理器。它可以使你随时随地的对设备的文件进行基本的管理操作，如：创建、删除、移动、复制等。它除了可以让你进行文件管</description>
         
         <dc:creator>Yaleax</dc:creator>
@@ -99,11 +99,11 @@
       
       <item>
         <title>通过iptables实现国内 nat的IP端口数据包转发服务</title>
-        <link>http://www.yaleax.com/posts/%E9%80%9A%E8%BF%87%E5%9B%BD%E5%86%85-nat-%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%AD%E8%BD%AC%E6%9D%A5%E8%BE%BE%E5%88%B0%E5%8A%A0%E9%80%9F%E7%9A%84%E7%9B%AE%E7%9A%84/</link>
+        <link>https://www.yaleax.com/posts/%E9%80%9A%E8%BF%87%E5%9B%BD%E5%86%85-nat-%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%AD%E8%BD%AC%E6%9D%A5%E8%BE%BE%E5%88%B0%E5%8A%A0%E9%80%9F%E7%9A%84%E7%9B%AE%E7%9A%84/</link>
         <pubDate>Tue, 03 Dec 2019 05:41:53 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Tue, 03 Dec 2019 05:41:54 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/%E9%80%9A%E8%BF%87%E5%9B%BD%E5%86%85-nat-%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%AD%E8%BD%AC%E6%9D%A5%E8%BE%BE%E5%88%B0%E5%8A%A0%E9%80%9F%E7%9A%84%E7%9B%AE%E7%9A%84/</guid>
+        <guid>https://www.yaleax.com/posts/%E9%80%9A%E8%BF%87%E5%9B%BD%E5%86%85-nat-%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%AD%E8%BD%AC%E6%9D%A5%E8%BE%BE%E5%88%B0%E5%8A%A0%E9%80%9F%E7%9A%84%E7%9B%AE%E7%9A%84/</guid>
         <description>一、前言 俗话说：『一如电信深似海，从此小鸡不好买。』 家里是中国电信的网络，为了能跑满宽带（100M），不断尝试买不同的小鸡，通过试验，发现速</description>
         
         <dc:creator>Yaleax</dc:creator>
@@ -117,11 +117,11 @@
       
       <item>
         <title>K2p老毛子/padavan/pdcn/华硕固件，端口映射、端口转发方法。</title>
-        <link>http://www.yaleax.com/posts/%E5%8D%8E%E7%A1%95%E8%80%81%E6%AF%9B%E5%AD%90%E5%9B%BA%E4%BB%B6%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84%E6%96%B9%E6%B3%95/</link>
+        <link>https://www.yaleax.com/posts/%E5%8D%8E%E7%A1%95%E8%80%81%E6%AF%9B%E5%AD%90%E5%9B%BA%E4%BB%B6%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84%E6%96%B9%E6%B3%95/</link>
         <pubDate>Sun, 01 Dec 2019 10:46:43 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Sun, 01 Dec 2019 10:46:43 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/%E5%8D%8E%E7%A1%95%E8%80%81%E6%AF%9B%E5%AD%90%E5%9B%BA%E4%BB%B6%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84%E6%96%B9%E6%B3%95/</guid>
+        <guid>https://www.yaleax.com/posts/%E5%8D%8E%E7%A1%95%E8%80%81%E6%AF%9B%E5%AD%90%E5%9B%BA%E4%BB%B6%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84%E6%96%B9%E6%B3%95/</guid>
         <description>一、必要条件 已有公网ip，或已经内网穿透。 二、操作 1.找到端口转发 高级设置-外部网络(Wan)-端口转发(UPnP) 2.设置端口转发 服务名称</description>
         
         <dc:creator>Yaleax</dc:creator>
@@ -135,11 +135,11 @@
       
       <item>
         <title>VPS 上面安装 emby 服务器并连接 google drvie</title>
-        <link>http://www.yaleax.com/posts/vps-%E4%B8%8A%E9%9D%A2%E5%AE%89%E8%A3%85-emby-%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%B9%B6%E8%BF%9E%E6%8E%A5-google-drvie/</link>
+        <link>https://www.yaleax.com/posts/vps-%E4%B8%8A%E9%9D%A2%E5%AE%89%E8%A3%85-emby-%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%B9%B6%E8%BF%9E%E6%8E%A5-google-drvie/</link>
         <pubDate>Sat, 30 Nov 2019 11:24:02 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Sat, 30 Nov 2019 11:24:03 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/vps-%E4%B8%8A%E9%9D%A2%E5%AE%89%E8%A3%85-emby-%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%B9%B6%E8%BF%9E%E6%8E%A5-google-drvie/</guid>
+        <guid>https://www.yaleax.com/posts/vps-%E4%B8%8A%E9%9D%A2%E5%AE%89%E8%A3%85-emby-%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%B9%B6%E8%BF%9E%E6%8E%A5-google-drvie/</guid>
         <description>一、前言 纯属抄袭！在去原创之前，可以先把 vps 连接上 google drive，教程在这里。 二、emby 1.安装 1 docker run --name=emby -d -v /root/emby/config:/config -v /root/rclone:/clone -p 8096:8096 -p 8920:8920 -e UID=1000 -e GID=100 -e GIDLIST=100 --restart unless-stopped emby/embyserver:latest 三</description>
         
         <dc:creator>Yaleax</dc:creator>
@@ -153,11 +153,11 @@
       
       <item>
         <title>N1盒子Armbian 5.98,安装 De_gwd，最快速的科学上网方案。</title>
-        <link>http://www.yaleax.com/posts/n1%E7%9B%92%E5%AD%90%E5%AE%89%E8%A3%85-armbian-5-99-%E5%B9%B6%E5%AE%89%E8%A3%85-de_gwd/</link>
+        <link>https://www.yaleax.com/posts/n1%E7%9B%92%E5%AD%90%E5%AE%89%E8%A3%85-armbian-5-99-%E5%B9%B6%E5%AE%89%E8%A3%85-de_gwd/</link>
         <pubDate>Sat, 30 Nov 2019 11:22:47 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Sat, 30 Nov 2019 11:22:47 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/n1%E7%9B%92%E5%AD%90%E5%AE%89%E8%A3%85-armbian-5-99-%E5%B9%B6%E5%AE%89%E8%A3%85-de_gwd/</guid>
+        <guid>https://www.yaleax.com/posts/n1%E7%9B%92%E5%AD%90%E5%AE%89%E8%A3%85-armbian-5-99-%E5%B9%B6%E5%AE%89%E8%A3%85-de_gwd/</guid>
         <description>一、De_GWD介绍 1.名字解析 理解了名字，你其实也就能知道这套系统是干什么的了。 De: Debian系统，linux 的一个分支。 GW: gateway</description>
         
         <dc:creator>Yaleax</dc:creator>
@@ -171,11 +171,11 @@
       
       <item>
         <title>VPS连接 Google Drive</title>
-        <link>http://www.yaleax.com/posts/vps%E8%BF%9E%E6%8E%A5-google-drive/</link>
+        <link>https://www.yaleax.com/posts/vps%E8%BF%9E%E6%8E%A5-google-drive/</link>
         <pubDate>Sat, 30 Nov 2019 11:22:01 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Sat, 30 Nov 2019 11:22:02 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/vps%E8%BF%9E%E6%8E%A5-google-drive/</guid>
+        <guid>https://www.yaleax.com/posts/vps%E8%BF%9E%E6%8E%A5-google-drive/</guid>
         <description>有人已经写的挺好了，我为啥还要写？ 去教程! 一、前言 如果那个教程没有了，该怎么办？还是备份一下吧，照抄！重新排版！ 二、必要条件 这个应该是 Ubuntu/Debian 系统</description>
         
         <dc:creator>Yaleax</dc:creator>
@@ -189,11 +189,11 @@
       
       <item>
         <title>使用 Certbot手动获取 Let&#39;s Encrypt 免费证书Caddy手动配置证书</title>
-        <link>http://www.yaleax.com/posts/%E4%BD%BF%E7%94%A8-certbot%E6%89%8B%E5%8A%A8%E8%8E%B7%E5%8F%96-lets-encrypt-%E5%85%8D%E8%B4%B9%E8%AF%81%E4%B9%A6caddy%E6%89%8B%E5%8A%A8%E9%85%8D%E7%BD%AE%E8%AF%81%E4%B9%A6/</link>
+        <link>https://www.yaleax.com/posts/%E4%BD%BF%E7%94%A8-certbot%E6%89%8B%E5%8A%A8%E8%8E%B7%E5%8F%96-lets-encrypt-%E5%85%8D%E8%B4%B9%E8%AF%81%E4%B9%A6caddy%E6%89%8B%E5%8A%A8%E9%85%8D%E7%BD%AE%E8%AF%81%E4%B9%A6/</link>
         <pubDate>Tue, 19 Nov 2019 06:57:22 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Tue, 19 Nov 2019 06:57:22 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/%E4%BD%BF%E7%94%A8-certbot%E6%89%8B%E5%8A%A8%E8%8E%B7%E5%8F%96-lets-encrypt-%E5%85%8D%E8%B4%B9%E8%AF%81%E4%B9%A6caddy%E6%89%8B%E5%8A%A8%E9%85%8D%E7%BD%AE%E8%AF%81%E4%B9%A6/</guid>
+        <guid>https://www.yaleax.com/posts/%E4%BD%BF%E7%94%A8-certbot%E6%89%8B%E5%8A%A8%E8%8E%B7%E5%8F%96-lets-encrypt-%E5%85%8D%E8%B4%B9%E8%AF%81%E4%B9%A6caddy%E6%89%8B%E5%8A%A8%E9%85%8D%E7%BD%AE%E8%AF%81%E4%B9%A6/</guid>
         <description>一、前言 之前写了一个教程是利用 Caddy 自动获得证书得，最近总是失败，所以就选择手动获取，然后再配置 Caddy。首先我们需要从证书授权机构(以下简称</description>
         
         <dc:creator>Yaleax</dc:creator>
@@ -217,11 +217,11 @@
       
       <item>
         <title>在 ubuntu服务器上安装Clash </title>
-        <link>http://www.yaleax.com/posts/clash-%E6%95%99%E7%A8%8B/</link>
+        <link>https://www.yaleax.com/posts/clash-%E6%95%99%E7%A8%8B/</link>
         <pubDate>Mon, 18 Nov 2019 08:37:54 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Mon, 18 Nov 2019 08:37:55 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/clash-%E6%95%99%E7%A8%8B/</guid>
+        <guid>https://www.yaleax.com/posts/clash-%E6%95%99%E7%A8%8B/</guid>
         <description>一、前言 这是一个媲美 Surge 的代理客户端，免费、简洁的界面，支持 SS、V2Ray、SOCKS5 协议、支持规则分流和屏蔽广告（类似 Surge 的规则），支持托</description>
         
         <dc:creator>Yaleax</dc:creator>
@@ -241,11 +241,11 @@
       
       <item>
         <title>Ubuntu 18.04快速开启Google BBR</title>
-        <link>http://www.yaleax.com/posts/ubuntu-18-04%E5%BF%AB%E9%80%9F%E5%BC%80%E5%90%AFgoogle-bbr/</link>
+        <link>https://www.yaleax.com/posts/ubuntu-18-04%E5%BF%AB%E9%80%9F%E5%BC%80%E5%90%AFgoogle-bbr/</link>
         <pubDate>Mon, 18 Nov 2019 00:32:32 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Mon, 18 Nov 2019 00:32:32 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/ubuntu-18-04%E5%BF%AB%E9%80%9F%E5%BC%80%E5%90%AFgoogle-bbr/</guid>
+        <guid>https://www.yaleax.com/posts/ubuntu-18-04%E5%BF%AB%E9%80%9F%E5%BC%80%E5%90%AFgoogle-bbr/</guid>
         <description>前言 Google BBR 是一款免费开源的TCP拥塞控制传输控制协议, 可以使 Linux 服务器显著提高吞吐量和减少 TCP 连接的延迟。 [项目地址]https://github</description>
         
         <dc:creator>Yaleax</dc:creator>
@@ -265,11 +265,11 @@
       
       <item>
         <title>找回Macbook Pro电脑丢失管理员权限</title>
-        <link>http://www.yaleax.com/posts/macbook-pro%E7%94%B5%E8%84%91%E4%B8%A2%E5%A4%B1%E7%AE%A1%E7%90%86%E5%91%98%E6%9D%83%E9%99%90/</link>
+        <link>https://www.yaleax.com/posts/macbook-pro%E7%94%B5%E8%84%91%E4%B8%A2%E5%A4%B1%E7%AE%A1%E7%90%86%E5%91%98%E6%9D%83%E9%99%90/</link>
         <pubDate>Sun, 17 Nov 2019 11:23:41 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Sun, 17 Nov 2019 11:23:42 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/macbook-pro%E7%94%B5%E8%84%91%E4%B8%A2%E5%A4%B1%E7%AE%A1%E7%90%86%E5%91%98%E6%9D%83%E9%99%90/</guid>
+        <guid>https://www.yaleax.com/posts/macbook-pro%E7%94%B5%E8%84%91%E4%B8%A2%E5%A4%B1%E7%AE%A1%E7%90%86%E5%91%98%E6%9D%83%E9%99%90/</guid>
         <description>前言 我修改了Mac电脑的用户名，然后就丢失了 administrator 权限，太奇怪了，找了好久，才解决问题，记录一下。 解决步骤 重新启动电脑。 同时按 Command + S 。 一直按住，</description>
         
         <dc:creator>Yaleax</dc:creator>
@@ -289,11 +289,11 @@
       
       <item>
         <title>Github或 Git命令使用</title>
-        <link>http://www.yaleax.com/posts/github%E6%88%96-git%E5%91%BD%E4%BB%A4%E4%BD%BF%E7%94%A8/</link>
+        <link>https://www.yaleax.com/posts/github%E6%88%96-git%E5%91%BD%E4%BB%A4%E4%BD%BF%E7%94%A8/</link>
         <pubDate>Sun, 17 Nov 2019 11:02:02 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Sun, 17 Nov 2019 11:02:04 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/github%E6%88%96-git%E5%91%BD%E4%BB%A4%E4%BD%BF%E7%94%A8/</guid>
+        <guid>https://www.yaleax.com/posts/github%E6%88%96-git%E5%91%BD%E4%BB%A4%E4%BD%BF%E7%94%A8/</guid>
         <description>前言 使用了Hugo静态博客后，才开始正式使用GitHub，经过一段时间的使用，发现GitHub真好用，现在把一些关键信息记录下来。 GitHub 1.生成</description>
         
         <dc:creator>Yaleax</dc:creator>
@@ -313,11 +313,11 @@
       
       <item>
         <title>谷歌云或 ubuntu系统打开 root 用户密码登录服务器</title>
-        <link>http://www.yaleax.com/posts/%E8%B0%B7%E6%AD%8C%E4%BA%91%E6%88%96-ubuntu%E7%B3%BB%E7%BB%9F%E6%89%93%E5%BC%80-root-%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+        <link>https://www.yaleax.com/posts/%E8%B0%B7%E6%AD%8C%E4%BA%91%E6%88%96-ubuntu%E7%B3%BB%E7%BB%9F%E6%89%93%E5%BC%80-root-%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
         <pubDate>Sun, 17 Nov 2019 10:28:30 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Sun, 17 Nov 2019 10:39:34 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/%E8%B0%B7%E6%AD%8C%E4%BA%91%E6%88%96-ubuntu%E7%B3%BB%E7%BB%9F%E6%89%93%E5%BC%80-root-%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+        <guid>https://www.yaleax.com/posts/%E8%B0%B7%E6%AD%8C%E4%BA%91%E6%88%96-ubuntu%E7%B3%BB%E7%BB%9F%E6%89%93%E5%BC%80-root-%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
         <description>前言 开通谷歌云免费试用后，发现只能用网页登录服务器，太不方便，所以记录一下解决办法。 教程 1.切换到 root 1 2 #切换到 root 用户 sudo -i 2.编辑ssh配置</description>
         
         <dc:creator>Suan</dc:creator>
@@ -337,11 +337,11 @@
       
       <item>
         <title>利用Dnsmasq SNIproxy解锁 Netflix在 Ubuntu18.04 服务器上</title>
-        <link>http://www.yaleax.com/posts/%E8%A7%A3%E9%94%81-netflix/</link>
+        <link>https://www.yaleax.com/posts/%E8%A7%A3%E9%94%81-netflix/</link>
         <pubDate>Sun, 17 Nov 2019 08:41:44 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Sun, 17 Nov 2019 08:41:45 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/%E8%A7%A3%E9%94%81-netflix/</guid>
+        <guid>https://www.yaleax.com/posts/%E8%A7%A3%E9%94%81-netflix/</guid>
         <description>一、原理 Dnsmasq SNIproxy一键脚本，是利用Dnsmasq的DNS将网站解析劫持到SNI proxy反向代理的页面上。 二、必要条件 1.可以看 Ne</description>
         
         <dc:creator>Yaleax</dc:creator>
@@ -365,11 +365,11 @@
       
       <item>
         <title>使用 Backblaze和Cloudflare Workers搭建可以自定义域名的免费图床 </title>
-        <link>http://www.yaleax.com/posts/hello-world/</link>
+        <link>https://www.yaleax.com/posts/hello-world/</link>
         <pubDate>Sun, 10 Nov 2019 11:07:48 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Sun, 10 Nov 2019 11:07:48 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/hello-world/</guid>
+        <guid>https://www.yaleax.com/posts/hello-world/</guid>
         <description>前言 Backblaze，免费提供10G的存储空间。因为下载需要收费，所以我们可以利用Cloudflare和Backblaze互访免费的特性，</description>
         
         <dc:creator>Yaleax</dc:creator>
@@ -383,11 +383,11 @@
       
       <item>
         <title>Hugo Caddy V2ray on Ubuntu and filebrowser</title>
-        <link>http://www.yaleax.com/posts/hugo-caddy-v2ray-on-ubuntu/</link>
+        <link>https://www.yaleax.com/posts/hugo-caddy-v2ray-on-ubuntu/</link>
         <pubDate>Sun, 10 Nov 2019 02:09:16 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Sun, 10 Nov 2019 02:09:16 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/hugo-caddy-v2ray-on-ubuntu/</guid>
+        <guid>https://www.yaleax.com/posts/hugo-caddy-v2ray-on-ubuntu/</guid>
         <description>一、前言 这个教程绝大部分内容你都可以复制粘贴，但是请仔细阅读代码框里面的备注，也就是#后面的文字。 🈲必须修改代码里面的参数，否则不可能成功！</description>
         
         <dc:creator>Suan</dc:creator>
@@ -415,11 +415,11 @@
       
       <item>
         <title>使用Stackbit 来快速搭建静态博客</title>
-        <link>http://www.yaleax.com/posts/%E4%BD%BF%E7%94%A8stackbit-%E6%9D%A5%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</link>
+        <link>https://www.yaleax.com/posts/%E4%BD%BF%E7%94%A8stackbit-%E6%9D%A5%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</link>
         <pubDate>Sat, 09 Nov 2019 12:00:51 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Sat, 09 Nov 2019 12:00:51 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/%E4%BD%BF%E7%94%A8stackbit-%E6%9D%A5%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</guid>
+        <guid>https://www.yaleax.com/posts/%E4%BD%BF%E7%94%A8stackbit-%E6%9D%A5%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</guid>
         <description>前言 StackBit，在这个网站，你仅仅需要使用鼠标选择，就可以搭建一个静态博客，并且拥有后台管理界面，他所使用的供应商也是我上面提到的这几</description>
         
         <dc:creator>Suan</dc:creator>
@@ -447,11 +447,11 @@
       
       <item>
         <title>使用Hugo &#43;GitHub &#43; Netlify&#43;Netlify CMS，来制作个人免费静态博客</title>
-        <link>http://www.yaleax.com/posts/%E4%BD%BF%E7%94%A8hugo-github-netlify-netlify-cms%E6%9D%A5%E5%88%B6%E4%BD%9C%E4%B8%AA%E4%BA%BA%E5%85%8D%E8%B4%B9%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</link>
+        <link>https://www.yaleax.com/posts/%E4%BD%BF%E7%94%A8hugo-github-netlify-netlify-cms%E6%9D%A5%E5%88%B6%E4%BD%9C%E4%B8%AA%E4%BA%BA%E5%85%8D%E8%B4%B9%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</link>
         <pubDate>Sat, 09 Nov 2019 06:46:37 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Sat, 09 Nov 2019 06:46:37 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/%E4%BD%BF%E7%94%A8hugo-github-netlify-netlify-cms%E6%9D%A5%E5%88%B6%E4%BD%9C%E4%B8%AA%E4%BA%BA%E5%85%8D%E8%B4%B9%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</guid>
+        <guid>https://www.yaleax.com/posts/%E4%BD%BF%E7%94%A8hugo-github-netlify-netlify-cms%E6%9D%A5%E5%88%B6%E4%BD%9C%E4%B8%AA%E4%BA%BA%E5%85%8D%E8%B4%B9%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</guid>
         <description>前言 这是一篇手动创建Hugo博客的教程，跟着教程一步一步的进行，最终你将会得到一个类似我这样的博客，在这个过程中，如果你能用心思考，善用搜索</description>
         
         <dc:creator>Yaleax</dc:creator>

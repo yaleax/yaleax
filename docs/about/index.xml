@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>About on Yaleax&#39;s Blog</title>
-    <link>http://www.yaleax.com/about/</link>
+    <link>https://www.yaleax.com/about/</link>
     <description>Recent content in About on Yaleax&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 10 Nov 2019 11:49:51 +0000</lastBuildDate>
     
-        <atom:link href="http://www.yaleax.com/about/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.yaleax.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     

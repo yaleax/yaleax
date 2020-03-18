@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Yaleax&#39;s Blog</title>
-    <link>http://www.yaleax.com/categories/</link>
+    <link>https://www.yaleax.com/categories/</link>
     <description>Recent content in Categories on Yaleax&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster> Yaleax@gmail.com (Yaleax)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://www.yaleax.com/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.yaleax.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Clash on Yaleax&#39;s Blog</title>
-    <link>http://www.yaleax.com/tags/clash/</link>
+    <link>https://www.yaleax.com/tags/clash/</link>
     <description>Recent content in Clash on Yaleax&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 18 Nov 2019 08:37:54 +0000</lastBuildDate>
     
-        <atom:link href="http://www.yaleax.com/tags/clash/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.yaleax.com/tags/clash/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>在 ubuntu服务器上安装Clash </title>
-        <link>http://www.yaleax.com/posts/clash-%E6%95%99%E7%A8%8B/</link>
+        <link>https://www.yaleax.com/posts/clash-%E6%95%99%E7%A8%8B/</link>
         <pubDate>Mon, 18 Nov 2019 08:37:54 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Mon, 18 Nov 2019 08:37:55 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/clash-%E6%95%99%E7%A8%8B/</guid>
+        <guid>https://www.yaleax.com/posts/clash-%E6%95%99%E7%A8%8B/</guid>
         <description>一、前言 这是一个媲美 Surge 的代理客户端，免费、简洁的界面，支持 SS、V2Ray、SOCKS5 协议、支持规则分流和屏蔽广告（类似 Surge 的规则），支持托</description>
         
         <dc:creator>Yaleax</dc:creator>

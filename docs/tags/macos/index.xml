@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>MacOS on Yaleax&#39;s Blog</title>
-    <link>http://www.yaleax.com/tags/macos/</link>
+    <link>https://www.yaleax.com/tags/macos/</link>
     <description>Recent content in MacOS on Yaleax&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 17 Nov 2019 11:23:41 +0000</lastBuildDate>
     
-        <atom:link href="http://www.yaleax.com/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.yaleax.com/tags/macos/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>找回Macbook Pro电脑丢失管理员权限</title>
-        <link>http://www.yaleax.com/posts/macbook-pro%E7%94%B5%E8%84%91%E4%B8%A2%E5%A4%B1%E7%AE%A1%E7%90%86%E5%91%98%E6%9D%83%E9%99%90/</link>
+        <link>https://www.yaleax.com/posts/macbook-pro%E7%94%B5%E8%84%91%E4%B8%A2%E5%A4%B1%E7%AE%A1%E7%90%86%E5%91%98%E6%9D%83%E9%99%90/</link>
         <pubDate>Sun, 17 Nov 2019 11:23:41 +0000</pubDate>
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Sun, 17 Nov 2019 11:23:42 +0000</atom:modified>
-        <guid>http://www.yaleax.com/posts/macbook-pro%E7%94%B5%E8%84%91%E4%B8%A2%E5%A4%B1%E7%AE%A1%E7%90%86%E5%91%98%E6%9D%83%E9%99%90/</guid>
+        <guid>https://www.yaleax.com/posts/macbook-pro%E7%94%B5%E8%84%91%E4%B8%A2%E5%A4%B1%E7%AE%A1%E7%90%86%E5%91%98%E6%9D%83%E9%99%90/</guid>
         <description>前言 我修改了Mac电脑的用户名，然后就丢失了 administrator 权限，太奇怪了，找了好久，才解决问题，记录一下。 解决步骤 重新启动电脑。 同时按 Command + S 。 一直按住，</description>
         
         <dc:creator>Yaleax</dc:creator>

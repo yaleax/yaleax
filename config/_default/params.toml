@@ -76,7 +76,7 @@ fullContents = false
 
 # comment
 enableComment = true
-disqus_shortname = "" 
+disqus_shortname = "suan-su-1" 
 commento = false
 
 [gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment

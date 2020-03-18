@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>v2ray on Yaleax&#39;s Blog</title>
+    <link>http://www.yaleax.com/tags/v2ray/</link>
+    <description>Recent content in v2ray on Yaleax&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor> Yaleax@gmail.com (Yaleax)</managingEditor>
+    <webMaster> Yaleax@gmail.com (Yaleax)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 10 Nov 2019 02:09:16 +0000</lastBuildDate>
+    
+        <atom:link href="http://www.yaleax.com/tags/v2ray/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Hugo Caddy V2ray on Ubuntu and filebrowser</title>
+        <link>http://www.yaleax.com/posts/hugo-caddy-v2ray-on-ubuntu/</link>
+        <pubDate>Sun, 10 Nov 2019 02:09:16 +0000</pubDate>
+        <author> Yaleax@gmail.com (Yaleax)</author>
+        <atom:modified>Sun, 10 Nov 2019 02:09:16 +0000</atom:modified>
+        <guid>http://www.yaleax.com/posts/hugo-caddy-v2ray-on-ubuntu/</guid>
+        <description>一、前言 这个教程绝大部分内容你都可以复制粘贴，但是请仔细阅读代码框里面的备注，也就是#后面的文字。 🈲必须修改代码里面的参数，否则不可能成功！</description>
+        
+        <dc:creator>Suan</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>v2ray</category>
+            
+          
+            
+              <category>Caddy</category>
+            
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

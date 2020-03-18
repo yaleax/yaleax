@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>证书 on Yaleax&#39;s Blog</title>
+    <link>http://www.yaleax.com/tags/%E8%AF%81%E4%B9%A6/</link>
+    <description>Recent content in 证书 on Yaleax&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor> Yaleax@gmail.com (Yaleax)</managingEditor>
+    <webMaster> Yaleax@gmail.com (Yaleax)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 19 Nov 2019 06:57:22 +0000</lastBuildDate>
+    
+        <atom:link href="http://www.yaleax.com/tags/%E8%AF%81%E4%B9%A6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>使用 Certbot手动获取 Let&#39;s Encrypt 免费证书Caddy手动配置证书</title>
+        <link>http://www.yaleax.com/posts/%E4%BD%BF%E7%94%A8-certbot%E6%89%8B%E5%8A%A8%E8%8E%B7%E5%8F%96-lets-encrypt-%E5%85%8D%E8%B4%B9%E8%AF%81%E4%B9%A6caddy%E6%89%8B%E5%8A%A8%E9%85%8D%E7%BD%AE%E8%AF%81%E4%B9%A6/</link>
+        <pubDate>Tue, 19 Nov 2019 06:57:22 +0000</pubDate>
+        <author> Yaleax@gmail.com (Yaleax)</author>
+        <atom:modified>Tue, 19 Nov 2019 06:57:22 +0000</atom:modified>
+        <guid>http://www.yaleax.com/posts/%E4%BD%BF%E7%94%A8-certbot%E6%89%8B%E5%8A%A8%E8%8E%B7%E5%8F%96-lets-encrypt-%E5%85%8D%E8%B4%B9%E8%AF%81%E4%B9%A6caddy%E6%89%8B%E5%8A%A8%E9%85%8D%E7%BD%AE%E8%AF%81%E4%B9%A6/</guid>
+        <description>一、前言 之前写了一个教程是利用 Caddy 自动获得证书得，最近总是失败，所以就选择手动获取，然后再配置 Caddy。首先我们需要从证书授权机构(以下简称</description>
+        
+        <dc:creator>Yaleax</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Caddy</category>
+            
+          
+            
+              <category>证书</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

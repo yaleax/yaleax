@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Netlify on Yaleax&#39;s Blog</title>
+    <link>http://www.yaleax.com/tags/netlify/</link>
+    <description>Recent content in Netlify on Yaleax&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor> Yaleax@gmail.com (Yaleax)</managingEditor>
+    <webMaster> Yaleax@gmail.com (Yaleax)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 09 Nov 2019 12:00:51 +0000</lastBuildDate>
+    
+        <atom:link href="http://www.yaleax.com/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>使用Stackbit 来快速搭建静态博客</title>
+        <link>http://www.yaleax.com/posts/%E4%BD%BF%E7%94%A8stackbit-%E6%9D%A5%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</link>
+        <pubDate>Sat, 09 Nov 2019 12:00:51 +0000</pubDate>
+        <author> Yaleax@gmail.com (Yaleax)</author>
+        <atom:modified>Sat, 09 Nov 2019 12:00:51 +0000</atom:modified>
+        <guid>http://www.yaleax.com/posts/%E4%BD%BF%E7%94%A8stackbit-%E6%9D%A5%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</guid>
+        <description>前言 StackBit，在这个网站，你仅仅需要使用鼠标选择，就可以搭建一个静态博客，并且拥有后台管理界面，他所使用的供应商也是我上面提到的这几</description>
+        
+        <dc:creator>Suan</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Stackbit</category>
+            
+          
+            
+              <category>Hugo</category>
+            
+          
+            
+              <category>Netlify</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

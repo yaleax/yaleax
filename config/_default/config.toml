@@ -1,5 +1,5 @@
-baseURL = "http://www.yaleax.com/" # The URL of your site.
-title = "NingSu's Blog" # Title of your site
+baseURL = "https://www.yaleax.com/" # The URL of your site.
+title = "Yaleax's Blog" # Title of your site
 theme = "zzo" # Name of Zzo theme folder in `themes/`.
 publishDir = "docs"
 

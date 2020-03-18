@@ -17,13 +17,7 @@
   weight = 3
 
 [[main]]
-  identifier = "File"
-  name = "File"
-  url = "https://ning.su/admin/files/var/www/yale.ga/"
-  weight = 4
-
-[[main]]
   identifier = "Doc"
   name = "Doc"
   url = "https://themes.gohugo.io/theme/hugo-theme-zzo/en"
-  weight = 5
+  weight = 4

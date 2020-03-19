@@ -82,7 +82,7 @@ hugo -D
 {{% /notice %}}
 ### 1.新建一个Github仓库
 输完仓库名字后，按 <kbd>enter</kbd> 。
-![](https://img.ning.su/Screen-Recording-2019-11-17-20-13-44.gif)
+![](https://img.yaleax.com/Screen-Recording-2019-11-17-20-13-44.gif)
 ### 2.初始化 GitHub
 这些命令完成后，会上传全部Hugo博客源码到 GitHub
 ```bash
@@ -303,7 +303,7 @@ suan.su
 {{% /notice %}}
 
 ### 5.Caddy文件说明
- 
+
 安装目录：`/usr/local/caddy/`  
 Caddy配置文件位置：`/usr/local/caddy/Caddyfile`  
 Caddy自动申请SSL证书位置：`/.caddy/acme/acme-v02.api.letsencrypt.org/sites/xxx.xxx(域名)/`  

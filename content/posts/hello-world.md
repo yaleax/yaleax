@@ -8,7 +8,7 @@ lastmod: 2019-11-10T11:07:48.951Z
 
 ##  测试图床&Backblaze存储价格
 
-![Backblaze](https://img.ning.su/Screen-Shot-2019-11-12-13-15-43.png)
+![Backblaze](https://img.yaleax.com/Screen-Shot-2019-11-12-13-15-43.png)
 
 ## 必要条件
 1. 注册 [Backblaze](https://www.backblaze.com/b2/sign-up.html)

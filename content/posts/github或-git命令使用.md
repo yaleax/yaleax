@@ -37,9 +37,20 @@ git push
 git pull
 ```
 
+```bash
+hugo -D
+git add docs
+git commit -m "up"
+git push
+```
+
+
+
+
+
 ### GitHub命令速查表
 
-![](https://img.ning.su/github.png)
+![](https://img.yaleax.com/github.png)
 
 
 

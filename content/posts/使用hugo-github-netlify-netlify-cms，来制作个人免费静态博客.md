@@ -701,35 +701,35 @@ git push -u origin master
 ## 八、Netlify连接 GitHub仓库
 
 ### 1.使用Github帐号登录[Netlify](https://app.netlify.com/)
-![](https://img.ning.su/Screen-Shot-2019-11-11-16-30-16.18.png)
+![](https://img.yaleax.com/Screen-Shot-2019-11-11-16-30-16.18.png)
 ### 2.创建新的站点
-![Netlfiy 创建新站点](https://img.ning.su/Screen-Shot-2019-11-11-16-07-20.png)
+![Netlfiy 创建新站点](https://img.yaleax.com/Screen-Shot-2019-11-11-16-07-20.png)
 ### 3.连接 Github
-![](https://img.ning.su/Screen-Shot-2019-11-11-16-11-10.png)
+![](https://img.yaleax.com/Screen-Shot-2019-11-11-16-11-10.png)
 ### 4.选择博客说在的GitHub仓库
-![](https://img.ning.su/Screen-Shot-2019-11-11-16-25-01.png)
+![](https://img.yaleax.com/Screen-Shot-2019-11-11-16-25-01.png)
 ### 5.部署
-![](https://img.ning.su/Screen-Shot-2019-11-11-16-26-39.png)
+![](https://img.yaleax.com/Screen-Shot-2019-11-11-16-26-39.png)
 
 > 等待完成，你的博客就已经成功创建了。Netlify 会提供一个二级域名。但是名字比较难记，你可以更改一个好记一些的。
 
 ### 6.更改二级域名名字
-![](https://img.ning.su/Screen-Shot-2019-11-11-16-35-38.png)
+![](https://img.yaleax.com/Screen-Shot-2019-11-11-16-35-38.png)
 ![](https://img.ning.su/Screen-Shot-2019-11-11-16-36-01.png)
-![](https://img.ning.su/Screen-Shot-2019-11-11-16-38-37.png)
+![](https://img.yaleax.com/Screen-Shot-2019-11-11-16-38-37.png)
 
 > 大功告成
 
 ## 九、Netlify CMS
 
 ### 1.开启身份验证功能
-![](https://img.ning.su/pb-W8ymYipYXE.png)
+![](https://img.yaleax.com/pb-W8ymYipYXE.png)
 ### 2.开启 Git Gateway
-![](https://img.ning.su/pb-SXUAftKp1b.png)
+![](https://img.yaleax.com/pb-SXUAftKp1b.png)
 ### 3.开启邮箱免验证功能
-![](https://img.ning.su/pb-XAnpBjmygb.png)
+![](https://img.yaleax.com/pb-XAnpBjmygb.png)
 ### 4.邀请自己成为管理员
-![](https://img.ning.su/pb-BPUoTrJr83.png)
+![](https://img.yaleax.com/pb-BPUoTrJr83.png)
 ### 5.填写自己的邮箱  
 ### 6.去邮箱接收邀请邮箱    
 ### 7.访问Netlify CMS后台

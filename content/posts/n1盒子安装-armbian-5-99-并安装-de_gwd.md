@@ -22,7 +22,7 @@ lastmod: 2019-11-30T11:22:47.298Z
 
 ### 3.客户端界面  
 
-![](https://img.ning.su/Screen-Shot-2019-12-03-20-40-29.31.png)
+![](https://img.yaleax.com/Screen-Shot-2019-12-03-20-40-29.31.png)
 ### 3.工作原理
 
 

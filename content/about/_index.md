@@ -13,6 +13,7 @@ weight: 50
 * 域名服务商：[腾讯云](https://dnspod.cloud.tencent.com/)
 * DNS服务商：[CloudFlare](https://www.cloudflare.com/)
 * 域名证书：[Let's Encrypt](https://letsencrypt.org/)
-* CDN网络加速：[暂无](#)
+* CDN网络加速：[CloudFlare](https://www.cloudflare.com/)
 * 图床：[BackBlaze](https://www.backblaze.com/)
+* 评论系统：[Disqus](https://disqus.com/)
 

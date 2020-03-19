@@ -48,7 +48,7 @@ Let’s Encrypt目前支持三种验证方式：
 
 等待安装一些相关环境文件，接下来的操作参考下面得图片
 
-![](https://img.ning.su/le_ssl_01.png)
+![](https://img.yaleax.com/le_ssl_01.png)
 
 ### 3.更改dnstxt
 

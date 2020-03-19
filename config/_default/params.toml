@@ -39,7 +39,7 @@ bioImageUrl = "" # image url like http//... If not set, we find a avatar image i
 useGravatar = false # we use this option highest priority
 location = "China, Yantai"
 organization = "YHIS"
-link = "https://ning.su"
+link = "https://www.yaleax.com"
 
 # sidebar
 enableBio = true # home page sidebar

@@ -14,7 +14,7 @@
     <managingEditor> Yaleax@gmail.com (Yaleax)</managingEditor>
     <webMaster> Yaleax@gmail.com (Yaleax)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 21 Mar 2020 19:57:27 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 20:36:25 +0800</lastBuildDate>
     
         <atom:link href="https://www.yaleax.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -24,6 +24,24 @@
       
       
 
+      
+      <item>
+        <title>Dns64服务器</title>
+        <link>https://www.yaleax.com/posts/dns64/</link>
+        <pubDate>Sat, 21 Mar 2020 20:36:25 +0800</pubDate>
+        <author> Yaleax@gmail.com (Yaleax)</author>
+        <atom:modified>Sat, 21 Mar 2020 20:36:25 +0800</atom:modified>
+        <guid>https://www.yaleax.com/posts/dns64/</guid>
+        <description>Dns64 server是什么 你有一台 ipv6的机器，想访问 ipv4的网站，Dns64 server就可以帮助你解决这个问题。 1.修改 dns服务器 1 nano /etc/resolv.conf</description>
+        
+        <dc:creator>Yaleax</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>K2P老毛子padavan固件 设置开启ipv6</title>

@@ -53,7 +53,7 @@
         <author> Yaleax@gmail.com (Yaleax)</author>
         <atom:modified>Mon, 24 Feb 2020 21:30:45 -0500</atom:modified>
         <guid>https://www.yaleax.com/posts/dddebian/</guid>
-        <description>前言 当你想在 vps 里面重新安装一个干净的系统的时候，你就可以用下面的方法来执行。注意看说明，这个不是一键脚本，需要修改参数。 1.装依赖组件 1 apt-get install</description>
+        <description>前言 当你想在 vps 里面重新安装一个干净的系统的时候，你就可以用下面的方法来执行。注意看说明，这个不是一键脚本，需要修改参数。 一键傻瓜式安装 1.示</description>
         
         <dc:creator>Yaleax</dc:creator>
         

@@ -3,10 +3,43 @@ title: "通过dd 命令给 VPS重装debian系统"
 date: 2020-02-24T21:30:45-05:00
 draft: true
 ---
-### 前言
+##   前言  
+
 当你想在 vps 里面重新安装一个干净的系统的时候，你就可以用下面的方法来执行。注意看说明，这个不是一键脚本，需要修改参数。
 
+## 一键傻瓜式安装
+
+### 1.示例代码
+
+下面这个是安装 Debian9,密码是: `MoeClub.org`
+
+```bash
+bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -d 9 -v 64 -a
+```
+
+参照下面的提示,可以安装其他系统和版本
+
+```bash
+Usage:
+        bash InstallNET.sh      -d/--debian [dist-name]
+                                -u/--ubuntu [dist-name]
+                                -c/--centos [dist-version]
+                                -v/--ver [32/i386|64/amd64]
+                                --ip-addr/--ip-gate/--ip-mask
+                                -apt/-yum/--mirror
+                                -dd/--image
+                                -a/-m
+
+# dist-name: 发行版本代号
+# dist-version: 发行版本号
+# -apt/-yum/--mirror : 使用定义镜像
+# -a/-m : 询问是否能进入VNC自行操作. -a 为不提示(一般用于全自动安装), -m 为提示.
+```
+
+## 自定义 IP 安装
+
 ### 1.装依赖组件
+
 ```bash
 apt-get install -y xz-utils openssl gawk file
 ```

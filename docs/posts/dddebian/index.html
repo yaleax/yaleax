@@ -1235,7 +1235,7 @@
     "datePublished": "2020-02-24T21:30:45-05:00",
     "dateModified": "2020-02-24T21:30:45-05:00",
     "url" : "https://www.yaleax.com/posts/dddebian/",
-    "description": "前言 当你想在 vps 里面重新安装一个干净的系统的时候，你就可以用下面的方法来执行。注意看说明，这个不是一键脚本，需要修改参数。 1.装依赖组件 1 apt-get install",
+    "description": "前言 当你想在 vps 里面重新安装一个干净的系统的时候，你就可以用下面的方法来执行。注意看说明，这个不是一键脚本，需要修改参数。 一键傻瓜式安装 1.示",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "https://www.yaleax.com/"
@@ -1535,8 +1535,55 @@
     </div>
     <article class="single__contents" data-dir="ltr" data-ani="true">
       
-      <h3 id="前言">前言</h3>
+      <h2 id="前言">前言</h2>
 <p>当你想在 vps 里面重新安装一个干净的系统的时候，你就可以用下面的方法来执行。注意看说明，这个不是一键脚本，需要修改参数。</p>
+<h2 id="一键傻瓜式安装">一键傻瓜式安装</h2>
+<h3 id="1示例代码">1.示例代码</h3>
+<p>下面这个是安装 Debian9,密码是: <code>MoeClub.org</code></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">bash &lt;<span class="o">(</span>wget --no-check-certificate -qO- <span class="s1">&#39;https://moeclub.org/attachment/LinuxShell/InstallNET.sh&#39;</span><span class="o">)</span> -d <span class="m">9</span> -v <span class="m">64</span> -a
+</code></pre></td></tr></table>
+</div>
+</div><p>参照下面的提示,可以安装其他系统和版本</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">Usage:
+        bash InstallNET.sh      -d/--debian <span class="o">[</span>dist-name<span class="o">]</span>
+                                -u/--ubuntu <span class="o">[</span>dist-name<span class="o">]</span>
+                                -c/--centos <span class="o">[</span>dist-version<span class="o">]</span>
+                                -v/--ver <span class="o">[</span>32/i386<span class="p">|</span>64/amd64<span class="o">]</span>
+                                --ip-addr/--ip-gate/--ip-mask
+                                -apt/-yum/--mirror
+                                -dd/--image
+                                -a/-m
+
+<span class="c1"># dist-name: 发行版本代号</span>
+<span class="c1"># dist-version: 发行版本号</span>
+<span class="c1"># -apt/-yum/--mirror : 使用定义镜像</span>
+<span class="c1"># -a/-m : 询问是否能进入VNC自行操作. -a 为不提示(一般用于全自动安装), -m 为提示.</span>
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="自定义-ip-安装">自定义 IP 安装</h2>
 <h3 id="1装依赖组件">1.装依赖组件</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -2156,9 +2203,14 @@ document.addEventListener('DOMContentLoaded', function () {
   <div class="toc " data-dir="ltr" data-folding="false" data-ani="true">
     <nav id="TableOfContents">
   <ul>
-    <li>
+    <li><a href="#前言">前言</a></li>
+    <li><a href="#一键傻瓜式安装">一键傻瓜式安装</a>
       <ul>
-        <li><a href="#前言">前言</a></li>
+        <li><a href="#1示例代码">1.示例代码</a></li>
+      </ul>
+    </li>
+    <li><a href="#自定义-ip-安装">自定义 IP 安装</a>
+      <ul>
         <li><a href="#1装依赖组件">1.装依赖组件</a></li>
         <li><a href="#2查看机子原来ip">2.查看机子原来ip</a></li>
         <li><a href="#3修改好ip整段丢进终端运行">3.修改好ip整段丢进终端运行</a></li>

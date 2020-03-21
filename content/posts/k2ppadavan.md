@@ -12,5 +12,5 @@ tags:
 
 具体配置看下图
 
-![](https://img.qpf.pub/file/qpfpub/Screen-Shot-2020-03-21-19-48-17.png)
+![](https://img.yaleax.com/Screen-Shot-2020-03-21-19-48-17.png)
 

@@ -44,9 +44,9 @@ hugo new site suan
 ```
 
 ### 3.安装主题
-{{% notice tip 提示 %}}  
+
 如果没有安装 git先安装
-{{% /notice %}}
+
 ### 3.1安装 git
 ```bash
 apt-get update

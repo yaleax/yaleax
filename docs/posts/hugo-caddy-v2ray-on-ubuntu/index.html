@@ -1604,25 +1604,39 @@ hugo new site suan
 </code></pre></td></tr></table>
 </div>
 </div><h3 id="3安装主题">3.安装主题</h3>
-<div class="notices tip"  id="提示" >
-  如果没有安装 git先安装
-</div>
-### 3.1安装 git
-```bash
-apt-get update
+<p>如果没有安装 git先安装</p>
+<h3 id="31安装-git">3.1安装 git</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">apt-get update
 apt-get install git
-```
-###3.2 安装主题
-主题可以去Hugo[官方主题库](https://themes.gohugo.io/)下载,本文以 [even](https://github.com/olOwOlo/hugo-theme-even) 主题为例
-```bash
-# 进入新建好的suan目录
-cd /var/www/suan
-# 安装主题（不同主题安装方式不同）
+</code></pre></td></tr></table>
+</div>
+</div><p>###3.2 安装主题<br />
+主题可以去Hugo<a href="https://themes.gohugo.io/">官方主题库</a>下载,本文以 <a href="https://github.com/olOwOlo/hugo-theme-even">even</a> 主题为例</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1"># 进入新建好的suan目录</span>
+<span class="nb">cd</span> /var/www/suan
+<span class="c1"># 安装主题（不同主题安装方式不同）</span>
 git clone https://github.com/olOwOlo/hugo-theme-even themes/even
-#复制主题自带的 config.toml文件到当前根目录
+<span class="c1">#复制主题自带的 config.toml文件到当前根目录</span>
 cp themes/even/exampleSite/config.toml ./config.toml
-```
-<h3 id="4创建一篇测试新文章">4.创建一篇测试新文章</h3>
+</code></pre></td></tr></table>
+</div>
+</div><h3 id="4创建一篇测试新文章">4.创建一篇测试新文章</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -2628,6 +2642,7 @@ document.addEventListener('DOMContentLoaded', function () {
         <li><a href="#1安装-hugo">1.安装 Hugo</a></li>
         <li><a href="#2创建网站存放目录">2.创建网站存放目录</a></li>
         <li><a href="#3安装主题">3.安装主题</a></li>
+        <li><a href="#31安装-git">3.1安装 git</a></li>
         <li><a href="#4创建一篇测试新文章">4.创建一篇测试新文章</a></li>
         <li><a href="#5生成博客静态博客">5.生成博客静态博客</a></li>
       </ul>

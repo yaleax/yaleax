@@ -23,6 +23,13 @@ nameserver 2001:67c:2b0::6
 
 -----
 
-[参考] ：https://wangdalao.com/2913.html
+3.保存
 
-[Trex Dns64 server]：http://www.trex.fi/2011/dns64.html
+ 粘贴完成后，你需要同时按 <kbd>ctrl</kbd>+<kbd>x</kbd>来退出,再输入<kbd>y</kbd>确认保存，再按<kbd>回车</kbd>确认保存。
+
+-----
+
+[参考1] ：[https://wangdalao.com/2913.html](https://wangdalao.com/2913.html)
+
+[参考2]：[http://www.trex.fi/2011/dns64.html](http://www.trex.fi/2011/dns64.html)
+

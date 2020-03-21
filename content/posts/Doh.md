@@ -91,7 +91,7 @@ pihole -a -p
 ### 1.安装DNS-over-HTTPs服务器
 
 ```bash
-wget https://ning.su/admin/api/public/dl/QueBWSnt/doh-server_2.0.1_amd64.deb
+wget https://github.com/yaleax/yaleax/releases/download/doh-server/doh-server_2.0.1_amd64.deb
 sudo dpkg -i doh-server_2.0.1_amd64.deb
 ```
 

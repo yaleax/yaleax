@@ -2142,24 +2142,36 @@ rclone mount gd（换成新账号，内部目录要匹配）: /root/rclone/ldfds
 </nav>
     
   
-    <div id="disqus_thread"></div>
+    <div id="utterances"></div>
+<noscript>Please enable JavaScript to view the <a href="https://github.com/utterance">comments powered by utterances.</a></noscript>
 <script>
-  let disqus_config = function () {
-    
-    
-    
-  };
-  (function () {
-    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-      document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-      return;
+  document.addEventListener('DOMContentLoaded', function () {
+    try {
+      
+      var owner = JSON.parse("\"yaleax\"");
+      
+      var repo = JSON.parse("\"qpf.pub-comments\"");
+      var localTheme = localStorage.getItem('theme');
+      var utterTheme = localTheme === "dark" || localTheme === "hacker" ? 'photon-dark' : localTheme === 'kimbie' ? 'github-dark-orange' : 'github-light'
+
+      var myScript = document.createElement('script');
+      myScript.setAttribute('src', 'https://utteranc.es/client.js');
+      myScript.setAttribute('repo', `${owner}/${repo}`);
+      myScript.setAttribute('issue-term', 'pathname');
+      myScript.setAttribute('theme', utterTheme);
+      myScript.setAttribute('crossorigin', 'anonymous');
+      myScript.setAttribute('async', '');
+
+      myScript.onload = function() {
+      }
+
+      document.getElementById('utterances').appendChild(myScript);
+    } catch (err) {
+      console.log(err);
     }
-    var d = document, s = d.createElement('script'); s.async = true;
-    s.src = 'https://' + 'suan-su-1' + '.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-  }) ();
+  });
 </script>
+
   
 
     <div class="modal micromodal-slide" id="modal" aria-hidden="true">

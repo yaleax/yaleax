@@ -87,7 +87,7 @@ commento = false
 
 [utterances]       # https://utteranc.es/
   owner = "yaleax"              # Your GitHub ID
-  repo = "qpf.pub-comments"               # The repo to store comments
+  repo = "yaleax"               # The repo to store comments
 
 [gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
   owner = ""              # Your GitHub ID

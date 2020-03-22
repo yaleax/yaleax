@@ -14,13 +14,31 @@
     <managingEditor> Yaleax@gmail.com (Yaleax)</managingEditor>
     <webMaster> Yaleax@gmail.com (Yaleax)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 21 Mar 2020 20:36:25 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2020 23:08:34 +0800</lastBuildDate>
     
         <atom:link href="https://www.yaleax.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Zeit反代 v2ray 加速</title>
+        <link>https://www.yaleax.com/posts/zeit/</link>
+        <pubDate>Sun, 22 Mar 2020 23:08:34 +0800</pubDate>
+        <author> Yaleax@gmail.com (Yaleax)</author>
+        <atom:modified>Sun, 22 Mar 2020 23:08:34 +0800</atom:modified>
+        <guid>https://www.yaleax.com/posts/zeit/</guid>
+        <description>1.注册 zeit帐号 可以直接使用 github帐号登录 2. 在电脑上登录 zeit 安装Now CLI命令行工具并登录，需要nodejs运行环境 参考官方文档 https://zeit.co/docs</description>
+        
+        <dc:creator>Yaleax</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Dns64服务器</title>

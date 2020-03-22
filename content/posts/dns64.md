@@ -1,12 +1,16 @@
 ---
-title: "Dns64服务器"
+title: "Dns64和 nat64服务器"
 date: 2020-03-21T20:36:25+08:00
 draft: true
+tags:
+  - dns64
 ---
 
 ### Dns64 server是什么
 
-你有一台 ipv6的机器，想访问 ipv4的网站，Dns64 server就可以帮助你解决这个问题。
+你有一台 ipv6的机器，想访问 ipv4的网站，Dns64 server就可以帮助你解决这个问题。路由图大概是这个样子
+
+![](https://img.yaleax.com/u-1641462757-2111149660-fm-26-gp-0.jpg)
 
 1.修改 dns服务器
 

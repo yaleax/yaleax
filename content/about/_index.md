@@ -15,5 +15,5 @@ weight: 50
 * 域名证书：[Let's Encrypt](https://letsencrypt.org/)
 * CDN网络加速：[CloudFlare](https://www.cloudflare.com/)
 * 图床：[BackBlaze](https://www.backblaze.com/)
-* 评论系统：[Disqus](https://disqus.com/)
+* 评论系统：[Utteranc.es](https://utteranc.es/)
 

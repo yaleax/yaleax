@@ -1,5 +1,5 @@
 ---
-title: "Dns64和 nat64服务器"
+title: "Dns64服务器"
 date: 2020-03-21T20:36:25+08:00
 draft: true
 tags:

@@ -6,7 +6,7 @@ draft: true
 
 ### 1.注册 zeit帐号
 
-可以[Zeit](https://zeit.co/)官网直接使用 github帐号登录
+可以[https://zeit.co/](https://zeit.co/)官网直接使用 github帐号登录
 
 ### 2. 在电脑上登录 zeit
 

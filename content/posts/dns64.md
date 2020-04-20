@@ -18,15 +18,15 @@ tags:
 nano /etc/resolv.conf
 ```
 
-2.删除以前的nameserver ,使用下面这两个
+2.删除以前的nameserver ,使用下面任意两个
 
 ```
 #trex DNS64
 nameserver 2001:67c:2b0::4 
 nameserver 2001:67c:2b0::6
 # Cloudfare NDS64
-nameserver2606:4700:4700::64
-nameserver2606:4700:4700::6400
+nameserver 2606:4700:4700::64
+nameserver 2606:4700:4700::6400
 ```
 
 -----

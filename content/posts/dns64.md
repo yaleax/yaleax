@@ -21,8 +21,12 @@ nano /etc/resolv.conf
 2.删除以前的nameserver ,使用下面这两个
 
 ```
+#trex DNS64
 nameserver 2001:67c:2b0::4 
 nameserver 2001:67c:2b0::6
+# Cloudfare NDS64
+nameserver2606:4700:4700::64
+nameserver2606:4700:4700::6400
 ```
 
 -----
@@ -36,4 +40,6 @@ nameserver 2001:67c:2b0::6
 [参考1] ：[https://wangdalao.com/2913.html](https://wangdalao.com/2913.html)
 
 [参考2]：[http://www.trex.fi/2011/dns64.html](http://www.trex.fi/2011/dns64.html)
+
+[参考2]：[https://community.cloudflare.com/t/dns64-support/18702](https://community.cloudflare.com/t/dns64-support/18702)
 

@@ -1558,14 +1558,19 @@
 </code></pre></td></tr></table>
 </div>
 </div><p>2.删除以前的nameserver ,使用下面这两个</p>
-<pre><code>nameserver 2001:67c:2b0::4 
+<pre><code>#trex DNS64
+nameserver 2001:67c:2b0::4 
 nameserver 2001:67c:2b0::6
+# Cloudfare NDS64
+nameserver2606:4700:4700::64
+nameserver2606:4700:4700::6400
 </code></pre><hr />
 <p>3.保存</p>
 <p>粘贴完成后，你需要同时按 <code>ctrl</code>+<code>x</code>来退出,再输入<code>y</code>确认保存，再按<code>Enter</code>确认保存。</p>
 <hr />
 <p>[参考1] ：<a href="https://wangdalao.com/2913.html">https://wangdalao.com/2913.html</a></p>
 <p>[参考2]：<a href="http://www.trex.fi/2011/dns64.html">http://www.trex.fi/2011/dns64.html</a></p>
+<p>[参考2]：<a href="https://community.cloudflare.com/t/dns64-support/18702">https://community.cloudflare.com/t/dns64-support/18702</a></p>
 
     </article>
     <script>
